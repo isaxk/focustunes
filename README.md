@@ -1,30 +1,4 @@
-# focustune
+# FocusTune
+### This project is depracated use YT Desk instead it does basically the same thing but is more flexible.
 
-The no distraction desktop app client for streaming study music radio live streams.
-
-## Project Setup
-
-### Install
-
-```bash
-$ npm install
-```
-
-### Development
-
-```bash
-$ npm run dev
-```
-
-### Build
-
-```bash
-# For windows
-$ npm run build:win
-
-# For macOS
-$ npm run build:mac
-
-# For Linux
-$ npm run build:linux
-```
+https://github.com/isaxk/ytdesk
